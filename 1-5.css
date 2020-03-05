@@ -30,6 +30,78 @@ nav{
 	margin: 50px auto;
 	background-color: black;
 }
+.body1{
+	width: 200px;
+	height: 200px;
+	background-color: #e6ffe9;
+	float:left;
+}
+.body2{
+	width: 200px;
+	height: 200px;
+	background-color: #cdffd3;
+	float: left;
+}
+.body3{
+	width: 200px;
+	height: 200px;
+	background-color: #aeffbd;
+	float: left;
+}
+.body4{
+	width: 200px;
+	height: 200px;
+	background-color: #93ffab;
+	float: left;
+}
+.body5{
+	width: 200px;
+	height: 200px;
+	background-color: #f3ffd8;
+	float: left;
+}
+.body6{
+	width: 200px;
+	height: 200px;
+	background-color: #edffbe;
+	float: left;
+}
+.body7{
+	width: 200px;
+	height: 200px;
+	background-color: #e9ffa5;
+	float: left;
+}
+.body8{
+	width: 200px;
+	height: 200px;
+	background-color: #e4ff8d;
+	float: left;
+}
+.body9{
+	width: 200px;
+	height: 200px;
+	background-color: #d9e5ff;
+	float: left;
+}
+.body10{
+	width: 200px;
+	height: 200px;
+	background-color: #bad3ff;
+	float: left;
+}
+.body11{
+	width: 200px;
+	height: 200px;
+	background-color: #a4c6ff;
+	float: left;
+}
+.body12{
+	width: 200px;
+	height: 200px;
+	background-color: #8eb8ff;
+	float: left;
+}
 footer{
 	height: 120px;
 	background-color:gray;
