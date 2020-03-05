@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header{
+	width: 100%;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-align: center;
+}
+nav{
+	border: solid black;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+}
+.nav-list{
+	text-align: center;
+	margin: 0 auto;
+	padding: 15px 0;
+}
+.item{
+	list-style: none;
+	margin: 0 20px;
+	display: inline-block;
+}
+.body{
+	width: 800px;
+	height: 600px;
+	margin: 50px auto;
+	background-color: black;
+}
+footer{
+	height: 120px;
+	background-color:gray;
+}
+#text{
+	line-height: 120px;
+	color: white;
+	text-align: center;
+}
